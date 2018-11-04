@@ -1,0 +1,32 @@
+.HotOrCold {
+  position: relative;
+  top: 70px;
+  border: 1px solid black;
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  padding: 12px;
+  background-color: rgba(150, 52, 192, 0.54);
+}
+
+#hotTitle, #coldTitle {
+  display: inline-block;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+#hotTitle {
+  color: darkred;
+}
+
+#coldTitle{
+  color: darkblue;
+}
+
+.hidden {
+  display: none;
+}
+
+.revealed {
+  display: inline-block;
+}

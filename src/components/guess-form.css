@@ -1,0 +1,10 @@
+#guessForm {
+  width: 60%;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px outset lightblue;
+  border-radius: 4px;
+}
